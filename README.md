@@ -1,12 +1,12 @@
 # Hola, soy David Fernández Roca
 
-Técnico en Sistemas Microinformáticos y Redes y estudiante de 2º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Talavera de la Reina (Toledo).
+Técnico en Sistemas Microinformáticos y Redes y estudiante de 1º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Talavera de la Reina (Toledo).
 
-Uso este perfil para publicar mis ejercicios de clase y mis proyectos, y que se vea cómo trabajo y cómo voy mejorando.
+Uso este perfil para publicar mis ejercicios de programación y que se vea cómo trabajo y cómo voy mejorando.
 
 ## Formación
 
-- **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2º curso, en curso
+- **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)** — 1º curso, en curso
 - **CFGM Sistemas Microinformáticos y Redes (SMR)** — IES Ribera del Tajo, Talavera de la Reina
 
 ## Experiencia
@@ -16,7 +16,7 @@ Uso este perfil para publicar mis ejercicios de clase y mis proyectos, y que se 
 
 ## Qué sé hacer
 
-**Desarrollo**
+**Desarrollo (aprendiendo)**
 - Java
 - HTML, CSS y XML
 - Git y GitHub
@@ -31,8 +31,7 @@ Uso este perfil para publicar mis ejercicios de clase y mis proyectos, y que se 
 
 | Repositorio | Contenido |
 |---|---|
-| [dam-ejercicios](https://github.com/DavidFernandezRoca/dam-ejercicios) | Ejercicios de clase organizados por módulo |
-| [dam-proyectos](https://github.com/DavidFernandezRoca/dam-proyectos) | Trabajos y proyectos más completos |
+| [dam-ejercicios](https://github.com/DavidFernandezRoca/dam-ejercicios) | Mis ejercicios de Programación de 1º de DAM |
 
 ## Contacto
 
