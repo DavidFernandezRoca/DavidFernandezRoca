@@ -11,8 +11,7 @@ Uso este perfil para publicar mis ejercicios de programación y que se vea cómo
 
 ## Experiencia
 
-- **Multifap** (Talavera de la Reina) — prácticas en empresa de informática, 3 meses
-- Prácticas de SMR en **IES Ribera del Tajo** y **Colegio EXA**
+- Prácticas de SMR en **Multifap**, empresa de informática (Talavera de la Reina)
 
 ## Qué sé hacer
 
@@ -38,5 +37,3 @@ Uso este perfil para publicar mis ejercicios de programación y que se vea cómo
 - Correo: fdzrocadavid@gmail.com
 - Ubicación: Talavera de la Reina, Toledo
 - Carnet B y vehículo propio
-
-Abierto a prácticas y a un primer empleo como desarrollador o técnico de sistemas.
